@@ -1,0 +1,50 @@
+--- Task 1.1 ---
+Dataset Selected: Vasil'chuk, Yurij K; Vasil'chuk, Alla Constantinovna; Budantseva, Nadine A (2023): Stable isotope composition of syngenetic ice wedges, 14C dates of Seyakha yedoma and surrounding sediments, and January air palaeotemperatures for 25-21 cal ka BP in northwestern Siberia. https://doi.pangaea.de/10.1594/PANGAEA.962428
+
+
+--- Task 1.2 ---
+
+
+- Who created the dataset?
+
+The dataset was created by Yurij K Vasil'chuk, Alla Constantinovna Vasil'chuk, 
+and Nadine A Budantseva. It was submitted and proofread by Yurij K Vasil'chuk and 
+Lyubov Bludushkina at the faculty of Geography, department of Geochemistry of 
+Landscapes and Geography of Soils, Lomonosov Moscow State University.
+
+- What do the instances represent?
+The instances in the dataset represent the stable isotope composition of syngenetic
+ice wedges, radiocarbon dates of Seyakha yedoma and surrounding sediments, and 
+reconstructed January air paleotemperatures for 25-21 cal ka BP in northwestern 
+Siberia.
+
+- How was the data acquired?
+The specific methods of data acquisition are not detailed in the provided abstract.
+However, the data likely involves fieldwork for sample collection and laboratory 
+analysis for stable isotope and radiocarbon dating.
+
+- Was any preprocessing/cleaning/labeling of the data done?
+The provided abstract does not specify any preprocessing, cleaning, or labeling of 
+the data. This information would be relevant to understand how the raw data was 
+transformed or curated before analysis.
+
+- Has the dataset been used for any tasks already?
+Yes, the dataset has been used in research studies, as indicated by the related 
+publications, including the study "AMS 14 C DATING OF SEYAKHA YEDOMA AND JANUARY 
+AIR PALAEOTEMPERATURES FOR 25–21 CAL KA BP BASED ON THE STABLE ISOTOPE 
+COMPOSITIONS OF SYNGENETIC ICE WEDGES" by Vasil'chuk et al.
+
+- Will the dataset be distributed to third parties?
+The dataset is publicly available and distributed under the Creative Commons 
+Attribution 4.0 International (CC-BY-4.0) license, which allows for sharing and 
+adaptation by third parties.
+
+- Who will be supporting/hosting/maintaining the dataset?
+The dataset is hosted on PANGAEA, a data publisher for earth and environmental 
+science, which also provides curation and maintenance services. The exact details 
+of ongoing support are not specified.
+
+
+--- Task1.3 ---
+- Has the dataset been used for any tasks already?
+This question is relevant as it helps understand the practical applications and validation of the dataset. Knowing that the dataset has been used in published research provides credibility and context for its usage. It indicates the types of scientific inquiries and analyses the dataset is suitable for, such as paleoclimatology and cryostratigraphy. In this case, the dataset's application in studying Late Pleistocene climatic conditions demonstrates its utility in reconstructing historical climate patterns and contributes to broader research in earth and environmental sciences.
